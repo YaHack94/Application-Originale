@@ -50,6 +50,6 @@ https://cacoo.com/diagrams/lwspX3clXbJMBEVW/933BC
 
 ## Wireframes
 
-! [Wireframes] (https://cacoo.com/diagrams/lwspX3clXbJMBEVW-F41A3.png)
+![Wireframes](https://cacoo.com/diagrams/lwspX3clXbJMBEVW-F41A3.png)
 
 https://cacoo.com/diagrams/lwspX3clXbJMBEVW/F41A3
