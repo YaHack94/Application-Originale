@@ -38,13 +38,13 @@ https://docs.google.com/spreadsheets/d/1t89QyWJOh0RG74zAl4yszQSQEk5r3v7oD_utBUkR
 
 ## ER Diagram
 
-![ER Diagram] (https://cacoo.com/diagrams/lwspX3clXbJMBEVW-31D80.png)
+![ER Diagram](https://cacoo.com/diagrams/lwspX3clXbJMBEVW-31D80.png)
 
 https://cacoo.com/diagrams/lwspX3clXbJMBEVW/31D80
 
 ## Screen Transition Diagram
 
-![transition  diagramme](https://cacoo.com/diagrams/lwspX3clXbJMBEVW-933BC.png)
+![transition  diagram](https://cacoo.com/diagrams/lwspX3clXbJMBEVW-933BC.png)
 
 https://cacoo.com/diagrams/lwspX3clXbJMBEVW/933BC
 
