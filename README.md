@@ -10,7 +10,7 @@ Things you may want to cover:
 ## Employmemnt Term Technology
 
 - Devise
-- Fonction de commentaire
+- Fonction de favories
 
 ## Technologies outside the curriculum
 
